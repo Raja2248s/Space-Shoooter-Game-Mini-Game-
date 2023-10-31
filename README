@@ -1,0 +1,52 @@
+# Space Shooter Game
+
+Welcome to the Space Shooter Game, an exciting and fun Python game developed using the Pygame library.
+
+## Features
+
+- **Multiple Levels**: Explore different backgrounds and face unique challenges on each level.
+- **Alien Enemies**: Encounter alien invaders with distinct appearances and movement patterns.
+- **Dynamic Gameplay**: Control your spaceship and shoot down enemies with bullets.
+- **Level Up**: Progress to the next level by pressing Shift + Enter.
+- **Heart-Based Lives**: Your spaceship has a limited number of lives – lose them all, and it's game over.
+- **Score Tracking**: Keep an eye on your score as you battle the alien horde.
+
+## Instructions
+
+1. **Clone the Repository**: Get the code by cloning this repository to your local machine.
+   
+   ```sh
+   git clone https://github.com/Raja2248s/Space-Shoooter-Game-Mini-Game-.git
+
+
+Install Dependencies: Ensure you have Python and the Pygame library installed. If not, you can install Pygame using pip:
+
+<> pip install pygame
+
+
+Run the Game: Start the game by running the Python script:
+
+<> python space_shooter_game.py
+
+
+Game Controls:
+
+Use the arrow keys (Left, Right, Up, Down) to navigate your spaceship.
+Press the Spacebar to shoot bullets at the aliens.
+To advance to the next level, press Shift + Enter.
+Contributions
+Contributions to this project are welcome! If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+Special thanks to Pygame for making game development with Python enjoyable. Enjoy the game, and may your spaceship stay on target!
+
+Game Screenshot
+
+vbnet
+Copy code
+
+
+
